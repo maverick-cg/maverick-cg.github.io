@@ -1,7 +1,7 @@
 ---
-title: "我的第一篇博客"
+title: "技术博客"
 date: 2023-11-15
-author: 你的名字
+author: maverick
 ---
 
 # 这里是博客正文
