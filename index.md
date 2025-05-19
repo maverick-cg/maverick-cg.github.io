@@ -1,5 +1,5 @@
 ---
-title: "技术博客"
+title: ""
 date: 2023-11-15
 author: maverick
 ---
